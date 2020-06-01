@@ -7,15 +7,34 @@
     width: 100%;
     position: relative;
     padding: 15px;
-
-    .titulo{
+}
+ .titulo{
         
+        ion-icon{
+            margin-top: 180px;
+        }
     
         h1{
             font-size: 20px;
-            margin-top: 180px;
+            padding: 0px;
             font-weight: bold;
+            margin-top: 180px;
            
          }
+
+
+.classifica{
+
+        max-width: 25px; 
+        max-height: 25px 
+    
+}
+.rodape{
+    p{
+        font-size: 15px;
+        padding: 0px;
+        margin-top:0px;
+        background-position: center;
+    }
 }
 }
