@@ -1,0 +1,49 @@
+.banner{
+    background: url('https://image.tmdb.org/t/p/w533_and_h300_bestv2/4InwNJ8yl1L4kf7rZvPHWJFQpSV.jpg');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 180px;
+    width: 100%;
+    position: relative;
+    padding: 15px;
+}
+ .titulo{
+        
+        ion-icon{
+            margin-top: 180px;
+        }
+    
+        h1{
+            font-size: 20px;
+            padding: 0px;
+            font-weight: bold;
+            margin-top: 180px;
+           
+         }
+
+
+    .classifica{
+
+            max-width: 15px; 
+            max-height: 15px; 
+        
+    }
+    .rodape{
+        p{
+            font-size: 10px;
+            padding: 0px;
+            margin-top:0px;
+            background-position: center;
+        }
+    }
+    .sin{
+        h1{
+            font-weight: bolder;
+            font-size: 20px;
+            margin: 0;
+            
+        }
+    }
+  
+}

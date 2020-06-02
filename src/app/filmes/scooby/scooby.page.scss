@@ -1,0 +1,54 @@
+.banner{
+    background: url('https://image.tmdb.org/t/p/w533_and_h300_bestv2/wY4MZ45czZfQ5e9scuzXybDe3LF.jpg');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 180px;
+    width: 100%;
+    position: relative;
+    padding: 15px;
+}
+ .titulo{
+        
+    
+      
+            margin-top: 20px;
+       
+    
+        h1{
+            font-size: 20px;
+            padding: 0px;
+            font-weight: bold;
+            margin-top:0px;
+           
+         }
+     }
+
+    .classifica{
+
+            max-width: 25px; 
+            max-height: 25px; 
+        
+    }
+  
+    .rodape{
+        p{
+            font-size: 15px;
+            padding: 0px;
+            margin-top:0px;
+            background-position: center;
+        }
+    }
+
+    
+  
+.temps{
+    position :relative;
+}
+
+.eps{
+    margin-top: 0px;
+    p{
+        font-size: 15px;
+    }
+}

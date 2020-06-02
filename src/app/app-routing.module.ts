@@ -68,6 +68,10 @@ const routes: Routes = [
   {
     path: 'simpsons',
     loadChildren: () => import('./desenhos/simpsons/simpsons.module').then( m => m.SimpsonsPageModule)
+  },
+  {
+    path: 'irmaodo-jorel',
+    loadChildren: () => import('./episodios/irmaodo-jorel/irmaodo-jorel.module').then( m => m.IrmaodoJorelPageModule)
   }
 
 ];

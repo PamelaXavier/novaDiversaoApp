@@ -1,0 +1,8 @@
+ion-item{
+    --padding-start: 5px;
+  
+      &:hover{
+          --background: #151218;
+      }
+      background-color: darken($color: #000000, $amount: 0);
+  }
